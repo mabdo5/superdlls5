@@ -53,7 +53,7 @@ Official site & downloads: **[https://superdlls.vercel.app](https://superdlls.ve
 
 The same clip — before and after. Compare on the website:
 
-**[Open interactive before / after →](https://superdlls.vercel.app/#compare-heading)**  
+**[Open interactive before / after →](https://superdlls.vercel.app/#compare)**  
 *Before · 540p 30fps → After · 4K 120fps*
 
 <p align="center">
